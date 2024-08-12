@@ -33,19 +33,26 @@ GRANDES TELAS = Acima de 1200px
     
     section#login {
         width: 80vw;
+        height: 280px;
 
     }
 
     section#login > div#imagem {
         float: left;
-        width: 40%;
+        width: 30%;
         height: 100%;
     }
 
     section#f#login > div#form {
         float: right;
-        width: 60%;
+        width: 70%;
     }
+
+    /* div.campo > input {
+        height: 100%;
+        width: 60%;
+        transform: translateY(-43px);
+    } */
 }
 
 
