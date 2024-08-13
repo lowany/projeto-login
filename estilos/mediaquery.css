@@ -48,11 +48,13 @@ GRANDES TELAS = Acima de 1200px
         width: 70%;
     }
 
-    /* div.campo > input {
+    form > div.campo {
+    }
+
+    div.campo > input {
         height: 100%;
         width: 60%;
-        transform: translateY(-43px);
-    } */
+    }
 }
 
 
